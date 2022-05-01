@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/refer-n-earn/static/css/main.207a6c59.css",
+    "main.js": "/refer-n-earn/static/js/main.a78f77f9.js",
+    "static/js/787.efea9224.chunk.js": "/refer-n-earn/static/js/787.efea9224.chunk.js",
+    "index.html": "/refer-n-earn/index.html",
+    "main.207a6c59.css.map": "/refer-n-earn/static/css/main.207a6c59.css.map",
+    "main.a78f77f9.js.map": "/refer-n-earn/static/js/main.a78f77f9.js.map",
+    "787.efea9224.chunk.js.map": "/refer-n-earn/static/js/787.efea9224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207a6c59.css",
+    "static/js/main.a78f77f9.js"
+  ]
+}
